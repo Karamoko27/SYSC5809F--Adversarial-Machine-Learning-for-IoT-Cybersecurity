@@ -27,4 +27,4 @@ Run on local environment: <br>
 1- Add a cell and execute "! pip install pandas numpy matplotlib seaborn sklearn tensorflow " (please add any other missing librairies) <br>
 2- Install the csv of friday-afternoon-working hours from the dataset link <br>
 3- Replace the second code cell with your path from the dataset <br>
-4- Run the Code ;) <br>
+4- Run the Code <br>
