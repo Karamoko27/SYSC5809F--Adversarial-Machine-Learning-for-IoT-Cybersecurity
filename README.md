@@ -54,7 +54,7 @@ scikit-learn
 tensorflow
 keras
 
-You can install them using:
+You can install them using:<br>
 !pip install pandas numpy matplotlib seaborn scikit-learn tensorflow keras
 
 
