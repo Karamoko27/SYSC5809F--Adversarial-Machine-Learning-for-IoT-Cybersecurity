@@ -20,9 +20,14 @@ We chose to compare our models under these different conditions:
 ---
 
 ## Repository Structure
-.
-.
-.
+│
+├── notebook/                 # notebook (main project code)
+│   └── IDS.ipynb
+        └── Results
+│
+└── README.md                 # Project documentation
+
+---
 
 ## Dataset
 
@@ -35,7 +40,7 @@ We used the CICIDS2017 Dataset to simulate network traffic in a smart home syste
 ## Tools Used
 Python Libraries - Program implementation and test execution
 Git and Github - Version control and repository hosting
-Google Colab - Running the Code
+Google Colab - Code Running
 Google Docs - Final Report Writing
 Google Slides - Project Presentation
 
@@ -50,7 +55,7 @@ tensorflow
 keras
 
 You can install them using:
-pip install pandas numpy matplotlib seaborn scikit-learn tensorflow keras
+!pip install pandas numpy matplotlib seaborn scikit-learn tensorflow keras
 
 
 ## HOW TO RUN 
